@@ -1,10 +1,12 @@
 ### `Project Details`
 
-intialy, this project was created for the end session for the company CannesIsUp placed in cannes , france
+
+Originally, the project was completed for the end of my training session for the company CannesIsUp placed in cannes , france
 I replaced all members with imaginary characters of Harry Potter
 
+
 ### `screenshot`
-<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/annuaire%20(3).png?raw=true" width="300" style="max-width:100%;">|<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/harry%20potter.png?raw=true" width="300" style="max-width:100%;">|<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/adherent.png?raw=true" width="300" style="max-width:100%;">|<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/admin.png?raw=true" width="300" style="max-width:100%;">|
+<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/annuaire%20(3).png?raw=true" width="300">|<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/harry%20potter.png?raw=true" width="300">|<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/adherent.png?raw=true" width="300" ">|<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/admin.png?raw=true" width="300">|
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
