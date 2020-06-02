@@ -4,7 +4,7 @@ intialy, this project was created for the end session for the company CannesIsUp
 I replaced all members with imaginary characters of Harry Potter
 
 ### `screenshot`
-<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/annuaire%20(3).png?raw=true" width="200" style="max-width:100%;">|<img src="/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/harry%20potter.png" width="200" style="max-width:100%;">|<img src="/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/adherent.png" width="200" style="max-width:100%;">|<img src="/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/admin.pngg" width="200" style="max-width:100%;">|
+<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/annuaire%20(3).png?raw=true" width="300" style="max-width:100%;">|<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/harry%20potter.png?raw=true" width="300" style="max-width:100%;">|<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/adherent.png?raw=true" width="300" style="max-width:100%;">|<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/admin.png?raw=true" width="300" style="max-width:100%;">|
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
