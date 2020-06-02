@@ -1,0 +1,13 @@
+.txtmenu {
+  padding: 0 15px;
+  line-height: 80px;
+  font-size: 14px;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  color: #454545;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.txtmenu:hover {
+  color: #f7316b;
+}

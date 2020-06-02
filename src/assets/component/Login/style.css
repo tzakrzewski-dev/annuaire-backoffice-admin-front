@@ -1,0 +1,60 @@
+.login .title {
+    color: #f7316b !important;
+}
+
+.login .btn-connexion {
+    color: #f7316b !important;
+    background-color: #ffffff !important;
+    border: 2px solid #f7316b !important;
+    border-radius: 8px !important;
+    padding: 10px 15px !important;
+    font-size: 15px !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif !important;
+}
+
+.login .btn-connexion:hover {
+    color: #ffffff !important;
+    background-color: #f7316b !important;
+    border: 2px solid #f7316b !important;
+}
+
+.login .btn-forget {
+    color: #f7316b !important;
+    background-color: transparent;
+    border: none!important;
+    padding: 10px 15px !important;
+    font-size: 13px !important;
+    font-weight: 700 !important;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif !important;
+}
+
+.login .input-form {
+    border-radius: 8px !important;
+    padding: 10px 15px !important;
+}
+
+.login .logo {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.annuaire-button{
+    color: #f7316b !important;
+    background-color: #ffffff !important;
+    border: 2px solid #f7316b !important;
+    border-radius: 8px !important;
+    padding: 10px 15px !important;
+    font-size: 15px !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif !important;
+}
+
+.annuaire-button:hover {
+    color: #ffffff !important;
+    background-color: #f7316b !important;
+    border: 2px solid #f7316b !important;
+}

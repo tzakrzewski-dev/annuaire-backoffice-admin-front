@@ -1,0 +1,13 @@
+:root {
+  --mainBlue: "#1da1f2";
+  --mainPink: "#F7316B";
+  --mainWhite: "#f7f7f7";
+}
+
+body {
+  background-color: var(--mainBlue) !important;
+}
+
+nav {
+  background-color: var(--mainWhite) !important;
+}

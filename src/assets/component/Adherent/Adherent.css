@@ -1,0 +1,43 @@
+.adherenth2 {
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    color: #454545;
+    font-size: 40px;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.adherenth3 {
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    color: #1da1f2;
+    font-size: 22px;
+    font-weight: 900;
+    padding: 0 0 15px 0;
+    margin: 20px;
+}
+
+.adherenth4 {
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    color: #f7316b;
+    font-size: 17px;
+    padding: 10px 0;
+    margin-left: 20px;
+    font-weight: 700;
+}
+
+.adherentButton {
+    color: #f7316b;
+    background-color: #fff;
+    border: 2px solid #f7316b;
+    border-radius: 8px;
+    padding: 10px 15px;
+    font-family: 'Roboto',Arial,Helvetica,sans-serif;
+    font-size: 17px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-left: 50px;
+}
+
+.adherentButton:active {
+    outline-color: #f7316b;
+}

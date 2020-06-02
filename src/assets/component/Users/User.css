@@ -1,0 +1,103 @@
+.card {
+  margin: 20px;
+  border-color: #5e6167 !important;
+  border-radius: 8px !important;
+}
+.picture {
+  display: flex;
+  background-size: contain;
+  background: url("../../images/fond_slide.jpg");
+  /*background-size: cover;*/
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%; /* width of container */
+  height: 150px; /* height of container */
+  object-fit: cover;
+}
+
+.center-column {
+  text-align: center;
+  vertical-align: middle !important;
+}
+.left-column {
+  text-align: left;
+  vertical-align: middle !important;
+}
+
+.info-representant {
+  min-height: 680px !important;
+}
+.info-société {
+  min-height: 1150px !important;
+}
+
+.link-font-size {
+  font-size: 12px;
+}
+
+.container {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.btn-connexion {
+  color: #f7316b !important;
+  background-color: #ffffff !important;
+  border: 2px solid #f7316b !important;
+  border-radius: 8px !important;
+  padding: 10px 15px !important;
+  font-size: 15px !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  font-family: "Roboto", Arial, Helvetica, sans-serif !important;
+}
+.btn-connexion:hover {
+  color: #ffffff !important;
+  background-color: #f7316b !important;
+  border: 2px solid #f7316b !important;
+}
+
+.btn-outline-secondary {
+  color: #f7316b !important;
+  background-color: #ffffff !important;
+  border: 2px solid #f7316b !important;
+  border-radius: 8px !important;
+  padding: 10px 15px !important;
+  font-size: 15px !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  font-family: "Roboto", Arial, Helvetica, sans-serif !important;
+}
+
+.img-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.pos-button {
+  position: relative;
+  top: -38%;
+}
+
+.table thead th {
+  vertical-align: middle !important;
+}
+
+.header-class {
+  text-align: center;
+  color: #f7316b;
+}
+
+.filter-label {
+  width: 100%;
+  background-color: #f7316b;
+}
+
+.page-item.active .page-link {
+  background-color: #f7316b !important;
+  border-color: #f7316b !important;
+}
+
+.btn-secondary {
+  background-color: #f7316b !important;
+  border-color: #f7316b !important;
+}

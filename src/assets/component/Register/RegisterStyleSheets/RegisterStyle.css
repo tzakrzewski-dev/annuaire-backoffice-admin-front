@@ -1,0 +1,13 @@
+.bandeauImage {
+  background-image: url("../../../images/beach.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: auto;
+  /*height: 180,*/
+  object-fit: cover;
+}
+
+.registerInstructions {
+    text-align: center;
+}
