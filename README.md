@@ -9,8 +9,7 @@ I replaced all members with imaginary characters of Harry Potter
 <img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/annuaire%20(3).png?raw=true" width="300">
 <img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/harry%20potter.png?raw=true" heigth="600">
 <img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/admin.png?raw=true" width="300">
-<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/adherent.png?raw=true
-?raw=true" width="400">
+<img src="https://github.com/tzakrzewski-dev/annuaire-harry-potter-backoffice-admin-front/blob/master/src/assets/images/adherent.png?raw=true width="400">
 
 ### `Framework`
 
