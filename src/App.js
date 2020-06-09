@@ -17,8 +17,7 @@ import AdminRegister from "./assets/component/Login/AdminRegister";
 
 import User from "./assets/component/Users/User";
 import Adherent from "./assets/component/Adherent/Adherent";
-import AnnuaireRomain from "./Components/Annuaire";
-import Annuaire from "./Components/Annuaire_thibaut";
+import Annuaire from "./Components/Annuaire";
 
 function App() {
   return (
@@ -29,7 +28,7 @@ function App() {
 
         <Route path="/annuaire/fiche/detail" component={Detail} />
         <Route path="/annuaire" component={Annuaire} />
-        <Route path="/annuairetest" component={AnnuaireRomain} />
+      
 
         <Route path="/adherent/dashboard/:id" component={User} />
 

@@ -1,3 +1,8 @@
+.col {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
 .card {
   margin: 20px;
   border-color: #5e6167 !important;
