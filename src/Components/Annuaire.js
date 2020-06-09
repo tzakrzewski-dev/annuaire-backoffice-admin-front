@@ -134,7 +134,7 @@ class Annuaire extends Component {
             }}
           />
           <div className="totalMembers">{this.totalMembers()}</div>
-          <Col >
+          <Col>
             {this.state.ctrl === "ok" ? (
               <InfiniteScroll
                 className="d-flex flex-wrap mx-auto"
@@ -185,7 +185,7 @@ class Annuaire extends Component {
                       <img
                         className="mt-5 pt-3 mx-auto img-fluid"
                         style={{
-                          maxWidth: "250px",
+                          width: "auto",
                           maxHeight: "65px",
                           display: "block",
                         }}
@@ -323,7 +323,10 @@ class Annuaire extends Component {
                         />
                         <img
                           className="mt-5 pt-3 mx-auto img-fluid"
-                          style={{ "max-width": "250px", display: "block" }}
+                          style={{
+                            display: "block",
+                            maxHeight: "200px",
+                          }}
                           src={data.company.brandLogo}
                           alt={data.company.brandLogo}
                         />
